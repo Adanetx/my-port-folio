@@ -3,3 +3,7 @@
   width: 90px;
   height: 90px;
 }
+
+.this {
+    background: url ('.assets/icon.css');
+}
